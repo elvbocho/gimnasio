@@ -1,0 +1,31 @@
+/* Estilos globales */
+
+body {
+    background-image: url("/img/10.jpg"); /* Ruta relativa desde la carpeta public */
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    color: #fff; /* Texto blanco */
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    line-height: 1.6;
+}
+
+/* Estilos para el contenido en tarjetas */
+.card, .table {
+    background: rgba(0, 0, 0, 0.6); /* Fondo oscuro semitransparente */
+    border-radius: 10px;
+}
+
+.table th, .table td {
+    color: #fff; /* Asegura que el texto de la tabla sea blanco */
+}
+
+/* Estilo para los botones con efecto hover */
+.btn-hover {
+    transition: 0.3s ease-in-out;
+}
+
+.btn-hover:hover {
+    transform: scale(1.08);
+}
+

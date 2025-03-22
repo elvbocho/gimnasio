@@ -1,0 +1,10 @@
+Date: 15/2/2025
+Time: 0:55
+Phone Number: +529931125602
+Message: Hola! Esto es una prueba
+--------------------
+Date: 15/2/2025
+Time: 1:19
+Phone Number: +529931125602
+Message: Hola usuario, esta es tu rutina de hoy
+--------------------
